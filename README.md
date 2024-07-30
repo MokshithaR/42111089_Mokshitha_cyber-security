@@ -45,5 +45,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: DEEKSHA M.S
-- **Email**: [deeksha190904@gmail.com]
+- **Name**: RUDRARAJU MOKSHITHA
+- **Email**: [mokshitharudraraju@gmail.com]
